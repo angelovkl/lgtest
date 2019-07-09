@@ -1,0 +1,1836 @@
+2019-07-08T12:56:31+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => c64f6f7d3336edc484c47b4d4b630ff3
+            [Date] => Jul 8, 2019 @ 12:56
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.35781
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => RnhefQcxsWLcHfsNODsg+6X3mVjEbFAIJoxRmKecZUQ=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => c64f6f7d3336edc484c47b4d4b630ff3
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 12:56:31 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T12:56:32+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => c64f6f7d3336edc484c47b4d4b630ff3
+            [Date] => Jul 8, 2019 @ 12:56
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.36234
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => 28eM28oScgIKjaTtO780qf/8rIxCnODd4mJDOGUBEGw=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => c64f6f7d3336edc484c47b4d4b630ff3
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 12:56:32 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T13:22:21+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => f4c62d573b0763d45d51b86f00374558
+            [Date] => Jul 8, 2019 @ 13:22
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.36153
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => lCY5bsrniGYDh9EMQlIHA48G9Ff7pI2Y0MZ+KGjSpYk=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => f4c62d573b0763d45d51b86f00374558
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 13:22:21 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T13:23:27+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 3ecafb1bb3abdbf5b976ab49bac2619d
+            [Date] => Jul 8, 2019 @ 13:23
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.35885
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => c5p8oX5zYc+LOP5Yh+xjXNut1EKt9VJwukbr0BNH0AQ=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 3ecafb1bb3abdbf5b976ab49bac2619d
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 13:23:27 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T13:23:27+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 3ecafb1bb3abdbf5b976ab49bac2619d
+            [Date] => Jul 8, 2019 @ 13:23
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.35823
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => PV7BcpfP/6cSA97SnVY0vVMPfAUkUnFO/c+eUhNKj/U=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 3ecafb1bb3abdbf5b976ab49bac2619d
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 13:23:27 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T13:24:51+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => c2f471746b76cb487cd7707c6283592b
+            [Date] => Jul 8, 2019 @ 13:24
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.34754
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => DJTYx5p4AAjv/UHcFKvxoeuy0fsoN2M67tn8nliX0Wk=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => c2f471746b76cb487cd7707c6283592b
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 13:24:51 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T13:25:30+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 624b14977af1834d5df8cb0e03e9f057
+            [Date] => Jul 8, 2019 @ 13:25
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.3742
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => ADU6xasRqL0hx5zmB1VVI4ZKjntV948cF+3DbcNPLVk=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 624b14977af1834d5df8cb0e03e9f057
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 13:25:30 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T13:26:16+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 4733d27f31fd65e20aa5df05f186530b
+            [Date] => Jul 8, 2019 @ 13:26
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.36038
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => EeWyQIsvuaFWMLSXnfjGAqiBFeYuqD6JPQkq+ZAPnvc=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 4733d27f31fd65e20aa5df05f186530b
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 13:26:16 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T13:27:31+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => b776ef55ec1a8e19066e7eedc7f2a455
+            [Date] => Jul 8, 2019 @ 13:27
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.37015
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => XMU/j8OmfknmZ4pQno7ld1le0h86J6R6D/ZtYktas3M=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => b776ef55ec1a8e19066e7eedc7f2a455
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 13:27:31 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T13:28:34+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 619003677dae9dcf2b50c721954f4498
+            [Date] => Jul 8, 2019 @ 13:28
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.37563
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => OnPQhk7HvWiT0ryKisP9czgT7pTjGQ/FKWO4EI0Gzj8=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 619003677dae9dcf2b50c721954f4498
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 13:28:34 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T13:29:34+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => a222b30908754a9153ceffcb355ae9a1
+            [Date] => Jul 8, 2019 @ 13:29
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.36125
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => Sy1KItYbUoFZSCd8Sv7HkX93fhrpI7QA1TOtpFBCDAY=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => a222b30908754a9153ceffcb355ae9a1
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 13:29:34 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T13:30:15+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 14efcde58b924fe51d62975bb3fc1024
+            [Date] => Jul 8, 2019 @ 13:30
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.35114
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => ZLI5VVYpT8EPeAeSrbfpx/jTvMmDHK9JD8UnyrR4qaU=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 14efcde58b924fe51d62975bb3fc1024
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 13:30:15 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T13:30:15+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 14efcde58b924fe51d62975bb3fc1024
+            [Date] => Jul 8, 2019 @ 13:30
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.33957
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => nCrZ/8e482yexmJs4tAy2uVERiH85c0boOAoIW2CLgw=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 14efcde58b924fe51d62975bb3fc1024
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 13:30:15 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T13:36:38+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => c5f37de1185948726b7d7e14eaede6f0
+            [Date] => Jul 8, 2019 @ 13:36
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.37056
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => wNcaHvfWPFSa1AykkXh7NZMvc2bubMjvwP1c4JEtOyo=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => c5f37de1185948726b7d7e14eaede6f0
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 13:36:38 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T14:00:17+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 200486b2e746ad32c000bb29003b7c24
+            [Date] => Jul 8, 2019 @ 14:00
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.37439
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => 45dVHBCdc0j+M5ynTg06ChGApJg9brS4ij3onPZM5oQ=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 200486b2e746ad32c000bb29003b7c24
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 14:00:17 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T14:01:37+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 4c7a82335e8ff0e522ff50add3e4f0e3
+            [Date] => Jul 8, 2019 @ 14:01
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.35268
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => TNpx85ujgnkKh5t3iK7gBbL+HiH0srlNF4Q0hbaXW1s=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 4c7a82335e8ff0e522ff50add3e4f0e3
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 14:01:37 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T14:02:59+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 14ab328b5f295c0088a3ec9ba1bb4eb6
+            [Date] => Jul 8, 2019 @ 14:02
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.37775
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => cS4N3YNVspU/KsmK1WpyJvU2OLYlbqmzrTC+L7uihWY=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 14ab328b5f295c0088a3ec9ba1bb4eb6
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 14:02:59 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T14:02:59+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 583c215feef109de4d00857cd3bab080
+            [Date] => Jul 8, 2019 @ 14:02
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.34196
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => JU3nrTkmPcQGQWh+tlBIgNLVXpJyS0gdjX0iUo5/pfg=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 583c215feef109de4d00857cd3bab080
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 14:02:59 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T14:03:26+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 1a8f9523dc7713481fadcc4d969085ed
+            [Date] => Jul 8, 2019 @ 14:03
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.3597
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => cISOOCzuOsqRP4bpcaqj8ECRXW2Y1HDkFvvWDlogYds=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 1a8f9523dc7713481fadcc4d969085ed
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 14:03:26 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T14:04:41+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 648c5480944573ac51cedb6df34bbcd1
+            [Date] => Jul 8, 2019 @ 14:04
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.35425
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => QOimhm901nNoTE0ywiQ70W2V7I6300+LipnO7DgwYaM=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 648c5480944573ac51cedb6df34bbcd1
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 14:04:41 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T14:04:41+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 98d4300a328846ea3120a751e9267595
+            [Date] => Jul 8, 2019 @ 14:04
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.35839
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => NilCGhlVyOl7v+VI/TN9xrFCUpI4cOC8ULrx/Vmjxo8=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 98d4300a328846ea3120a751e9267595
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 14:04:41 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T14:05:28+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => c2ee5bdb43b8d1b9286bb7f88c83bef8
+            [Date] => Jul 8, 2019 @ 14:05
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.39352
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => 2kJJ1mgtjfwu265m4YbGKRQ+dRKm1QXuUyjY7Bozqgo=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => c2ee5bdb43b8d1b9286bb7f88c83bef8
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 14:05:28 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T14:06:16+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => ace650929d2b59df9ecafa6867f317d6
+            [Date] => Jul 8, 2019 @ 14:06
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.35496
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => fZLiAEnelylrxoVHPFXrGO4Cn5XJBrfG6Uuevc/pBSc=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => ace650929d2b59df9ecafa6867f317d6
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 14:06:16 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T14:06:17+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => ace650929d2b59df9ecafa6867f317d6
+            [Date] => Jul 8, 2019 @ 14:06
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.35805
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => 2YYlwB8MUD6uytMs9Sd0zUA1ti4VC2SrrhFB+CQa28o=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => ace650929d2b59df9ecafa6867f317d6
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 14:06:17 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T14:07:24+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => c4a88bab9d134b7e9bd89b03bd443dbd
+            [Date] => Jul 8, 2019 @ 14:07
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.35955
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => pB1H2z6UY5R4c/NtEqIDIRqEoBY9/ukHpJ7htdI3eDM=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => c4a88bab9d134b7e9bd89b03bd443dbd
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 14:07:24 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T14:07:24+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 41fdd8f62e637fb85eb2c274a2008e41
+            [Date] => Jul 8, 2019 @ 14:07
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.34346
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => 5/L0R/gsY6C40lWV0Y0DbUkn6qlg2Id7dK4DW1ls8uo=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 41fdd8f62e637fb85eb2c274a2008e41
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 14:07:24 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T14:07:24+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 41fdd8f62e637fb85eb2c274a2008e41
+            [Date] => Jul 8, 2019 @ 14:07
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.35492
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => 4+2BfDYL4y5oyLvOTJMpbTvx0YavE5NcNIA0NcfkKYc=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 41fdd8f62e637fb85eb2c274a2008e41
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 14:07:24 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T14:07:25+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 41fdd8f62e637fb85eb2c274a2008e41
+            [Date] => Jul 8, 2019 @ 14:07
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.34735
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => 3y47x2yShvrxb/cBszijMPBeOwKnb+7+4SpGCnsDWic=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 41fdd8f62e637fb85eb2c274a2008e41
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 14:07:25 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T14:07:25+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => cda2056dd97ad728295994b80919e134
+            [Date] => Jul 8, 2019 @ 14:07
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.35456
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => nCXchio4JBmx5pH76m+ZAuaxG/E9ihRpSrLguKH90A4=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => cda2056dd97ad728295994b80919e134
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 14:07:25 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T14:08:29+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => e3e58954e7808854c7d923ca63089e2e
+            [Date] => Jul 8, 2019 @ 14:08
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.36433
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => 3Vld0nVhtR5F779H0ADw1PkYZ8o7btI43hc9Zay862g=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => e3e58954e7808854c7d923ca63089e2e
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 14:08:29 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T14:08:29+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 3ca37351c0fb08a338a4cdf3ac969cef
+            [Date] => Jul 8, 2019 @ 14:08
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.3759
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => BWkKAJKs8mutrwBYz4UF+f19R17JZRC/PdPkX06Y5sI=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 3ca37351c0fb08a338a4cdf3ac969cef
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 14:08:29 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T14:08:30+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 3ca37351c0fb08a338a4cdf3ac969cef
+            [Date] => Jul 8, 2019 @ 14:08
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.36125
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => x2PFaSE9XjTvFK0rS74lXJa5hU3pDq+HhL7ikHGWmvM=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 3ca37351c0fb08a338a4cdf3ac969cef
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 14:08:30 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T14:09:28+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 9d91e3c0eee2308dcc7401aabf44be72
+            [Date] => Jul 8, 2019 @ 14:09
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.3672
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => rQ6HiDf7c0/bbH2+gpXEBc7/RGjJFFexzif4HPdHvyk=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 9d91e3c0eee2308dcc7401aabf44be72
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 14:09:28 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T14:09:28+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => bcfb6118d876b5501bd49d61d168eefa
+            [Date] => Jul 8, 2019 @ 14:09
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.34718
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => 84R4u55yinRJD0focpKOmLkLZt4TC3hU7gDLafqEGHM=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => bcfb6118d876b5501bd49d61d168eefa
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 14:09:28 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T14:09:28+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => bcfb6118d876b5501bd49d61d168eefa
+            [Date] => Jul 8, 2019 @ 14:09
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.35039
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => uC8lKeyT6UrNrOgTz7dBaPe5M8cyaK+Rkd7rqiHDGho=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => bcfb6118d876b5501bd49d61d168eefa
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 14:09:28 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2019-07-08T14:09:29+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => bcfb6118d876b5501bd49d61d168eefa
+            [Date] => Jul 8, 2019 @ 14:09
+            [URL] => https://api.printful.com/hook/woocommerce?store=1476864
+            [Duration] => 0.34643
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.liongal.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => qFiBIaEzRCcCMjGTUCnO5CShoyL2xZa4uQ+lfSdvb2c=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => bcfb6118d876b5501bd49d61d168eefa
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Mon, 08 Jul 2019 14:09:29 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+

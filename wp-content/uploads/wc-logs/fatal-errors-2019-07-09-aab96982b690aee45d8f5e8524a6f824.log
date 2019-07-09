@@ -1,0 +1,22 @@
+2019-07-09T03:30:46+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in /home/ojyy06xpiv7w/public_html/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php:77
+Stack trace:
+#0 /home/ojyy06xpiv7w/public_html/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php(120): storefront_cart_link()
+#1 /home/ojyy06xpiv7w/public_html/wp-includes/class-wp-hook.php(286): storefront_header_cart('')
+#2 /home/ojyy06xpiv7w/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/ojyy06xpiv7w/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /home/ojyy06xpiv7w/public_html/wp-content/themes/storefront/header.php(46): do_action('storefront_head...')
+#5 /home/ojyy06xpiv7w/public_html/wp-includes/template.php(722): require_once('/home/ojyy06xpi...')
+#6 /home/ojyy06xpiv7w/public_html/wp-includes/template.php(671): load_template('/home/ojyy06xpi...', true)
+#7 /home/ojyy06xpiv7w/public_html/wp-includes/gen in /home/ojyy06xpiv7w/public_html/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php on line 77
+
+2019-07-09T09:40:38+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in /home/ojyy06xpiv7w/public_html/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php:77
+Stack trace:
+#0 /home/ojyy06xpiv7w/public_html/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php(120): storefront_cart_link()
+#1 /home/ojyy06xpiv7w/public_html/wp-includes/class-wp-hook.php(286): storefront_header_cart('')
+#2 /home/ojyy06xpiv7w/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/ojyy06xpiv7w/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /home/ojyy06xpiv7w/public_html/wp-content/themes/storefront/header.php(46): do_action('storefront_head...')
+#5 /home/ojyy06xpiv7w/public_html/wp-includes/template.php(722): require_once('/home/ojyy06xpi...')
+#6 /home/ojyy06xpiv7w/public_html/wp-includes/template.php(671): load_template('/home/ojyy06xpi...', true)
+#7 /home/ojyy06xpiv7w/public_html/wp-includes/gen in /home/ojyy06xpiv7w/public_html/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php on line 77
+
